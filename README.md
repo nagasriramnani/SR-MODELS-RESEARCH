@@ -16,7 +16,7 @@ All three SR models **reduce** identity similarity on average (mean Δ = −0.06
 
 ---
 
-## Research Questions
+## Research Questions:
 
 | # | Question | Finding |
 |---|---------|---------|
