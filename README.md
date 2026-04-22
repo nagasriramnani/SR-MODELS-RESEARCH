@@ -1,6 +1,6 @@
 # Face Super-Resolution Identity Preservation Audit Research Foused
 
-**PhD Preparatory Research — University of Birmingham**
+**PhD Preparatory Research — University of Birmingham** --
 
 > Does SR enhancement of CCTV-quality face images improve machine-based identification accuracy equitably across race and gender?
 
